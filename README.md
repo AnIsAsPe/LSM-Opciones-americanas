@@ -1,8 +1,8 @@
 # Evaluación de opciones americanas con LMS
 
-El presente repositorio se refiere a un curso para evaluar opciones americanas utilizando el método de Mínimos Cuadrados Montecarlo, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) 
+El presente repositorio se refiere a un curso para evaluar opciones americanas utilizando el método de Mínimos Cuadrados Montecarlo o LSM, por sus siglas en inglés, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) 
 
-La evaluación, implementada en Python usando un notebook de Jupyter,  parte de  de la simulación Montecarlo de un proceso Browniano que tomando el precio final de 2020 y la variación durante ese año. Los datos fueron obtenida del servicio Yahoo Finance  [Yahoo Finance](https://finance.yahoo.com/).
+La evaluación de la opción americana del azúcar, implementada en Python usando un notebook de Jupyter, comienza por la simulación Montecarlo de un proceso Browniano a partir del precio final de 2020 y la variación durante ese año. Los datos fueron obtenida del servicio Yahoo Finance  [Yahoo Finance](https://finance.yahoo.com/).
 
 La simulación referida sirve para calcular escenarios de ganancias a obtener considerando el precio de ejercicio o *strike*.
 
